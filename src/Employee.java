@@ -1,5 +1,6 @@
 public class Employee {
     String name;
+
     double salary;
     int workHour;
     int hireYear;
